@@ -2,6 +2,8 @@
 layout: post
 title: "Session IPA #1"
 date: 2019-12-11
+redirects:
+- /beer/1
 ---
 
 The first successful brew in over 3 years! It is pretty okay!
