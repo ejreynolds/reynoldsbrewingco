@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Session IPA #1"
-date: 2019-12-12
+date: 2019-12-11
 ---
 
 The first successful brew in over 3 years! It is pretty okay!
