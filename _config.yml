@@ -1,3 +1,4 @@
 name: Reynolds Brewing Co.
+description: "Erik's homebrewing adventures."
 permalink: /blog/:year/:month/:day/:title
 redirects: yes
