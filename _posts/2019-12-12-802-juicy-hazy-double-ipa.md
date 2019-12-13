@@ -2,6 +2,8 @@
 layout: post
 title: "802 Juicy Hazy Double IPA"
 date: 2019-12-12
+redirects:
+- /beer/1
 ---
 
 Beer #2!
