@@ -2,7 +2,7 @@
 layout: post
 title: "Session IPA #1"
 date: 2019-12-11
-redirects:
+redirect_from:
 - /beer/1
 ---
 
